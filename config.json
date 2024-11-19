@@ -1,0 +1,15 @@
+{
+    "screen_width": 2560,
+    "screen_height": 1440,
+    "capture_region": {
+        "top": 675,
+        "left": 960,
+        "width": 960,
+        "height": 540
+    },
+    "crosshair": {
+        "x": 480,
+        "y": 270
+    },
+    "confidence_threshold": 0.25
+}
